@@ -1,2 +1,2 @@
-# Weather_App_Website
-This is a API integrated WebApp, where the user can check current weather of a particular location. 
+# Weather_App_API_Integrated_Website
+This is an API-integrated web app where users can check the current weather of a specific location.
