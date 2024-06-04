@@ -15,7 +15,7 @@ Weather_App_API_Integrated_Website is an API-integrated web app where users can 
 - Bootstrap
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/Weather_App_API_Integrated_Website.git`
+1. Clone the repository: `git clone https://github.com/Anupam-03/Weather_App_API_Integrated_Website.git`
 2. Open the project directory in your code editor.
 3. Open the `index.html` file in your web browser to use the web app.
 
